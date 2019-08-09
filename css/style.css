@@ -7,12 +7,14 @@ h2{
     border-bottom: 1px solid gray;
     padding: 25px;
     margin: 0;
+    background-color: white
 }
 #first-article{
     text-align: right;
     display: grid;
     margin: 100px 70px;
     padding: 10px;
+    color: whitesmoke;
 }
 #first-article h3{
     font-size: 1.5em;
@@ -28,4 +30,8 @@ h2{
 .black-font{
     background-color: black;
     color: white;
+}
+header{
+    background-image: url( "../src/background.jpg" );
+    height: 500px;
 }
