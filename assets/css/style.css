@@ -1,0 +1,21 @@
+.header{
+    background: url(../../images/write.jpg) no-repeat top;
+    background-size: cover;
+    padding: 10em 0 10em 7em;
+    height: 100%;
+}
+.bgblack{
+    display: inline;
+    color: white;
+    background-color: black;
+}
+#header_article{
+    padding-top: 10px;
+}
+#second_article{
+    margin:5em;
+}
+#vscode{
+    width:75%;
+    margin-top:0.5em;
+}
