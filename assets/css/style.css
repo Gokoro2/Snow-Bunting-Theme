@@ -1,21 +1,52 @@
+a{
+    text-decoration: none!important;
+}
 .header{
     background: url(../../images/write.jpg) no-repeat top;
     background-size: cover;
-    padding: 10em 0 10em 7em;
+    padding: 11em 0;
     height: 100%;
 }
-.bgblack{
-    display: inline;
-    color: white;
-    background-color: black;
+.underline{
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 110%;
 }
-#header_article{
-    padding-top: 10px;
+.article_title{
+    font-weight: 200;
 }
-#second_article{
-    margin:5em;
+.article_title_second{
+    font-weight: 100;
+}
+.article_common{
+    margin-bottom: 1.5em;
+}
+.top_m{
+    margin-top: 4em;
+}
+.end_bottom_m{
+    margin-bottom: 6em;
+}
+.title_bottom_m{
+    margin-bottom: 2em;
 }
 #vscode{
     width:75%;
-    margin-top:0.5em;
+    margin-top:1em;
+}
+.position_cards{
+    margin-bottom: 1em;
+}
+.icons_vpn{
+    display: inline;
+}
+#footer{
+    background-color: black;
+    padding: 4em 0.5em;
+}
+.contact{
+    margin: 1em;
+}
+#copyright{
+    margin: 1em 5px;
 }
